@@ -1,4 +1,4 @@
 
 export const envCredentials = () => ({
-  api: 'https://api-uj4mkoe42a-uc.a.run.app'
+  api: 'https://api-nly74ncpra-uc.a.run.app'
 });
